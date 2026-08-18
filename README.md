@@ -4,7 +4,7 @@ An application that defines, monitors, detects, and enforces AI agent
 behaviour against an approved profile — built for the FLYYY.AI take-home
 assignment ("Catching Agents Doing What They Shouldn't").
 
-> **Live demo:** _add your deployed URL here after deployment_
+> **Live demo: https://flyyy-ai-governance.vercel.app/   (able to run and edit if the docker engine is on running mode)
 >
 
 ---
