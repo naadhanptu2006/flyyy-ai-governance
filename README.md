@@ -5,7 +5,7 @@ behaviour against an approved profile — built for the FLYYY.AI take-home
 assignment ("Catching Agents Doing What They Shouldn't").
 
 > **Live demo:** _add your deployed URL here after deployment_
-> **Video walkthrough:** _add a 2–3 min Loom/YouTube link here_
+>
 
 ---
 
