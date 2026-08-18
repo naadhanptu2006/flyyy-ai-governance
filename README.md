@@ -125,8 +125,8 @@ sequenceDiagram
     GW-->>Agent: BLOCKED — no auto-resume
 ```
 
-This matches the assignment's own example flow exactly:
-**Agent Deviation → Detection → Warning/Finding → Response → Block/Approval → Audit Trail.**
+
+Agent Deviation → Detection → Warning/Finding → Response → Block/Approval → Audit Trail
 
 ---
 
